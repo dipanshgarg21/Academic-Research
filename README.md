@@ -30,11 +30,11 @@ The imaging manuscript formalizes the data pathway from raw, mask-sampled k-spac
 ## 2. “Sahayata” – Mental health infrastructure for Indian exam aspirants
 
 ### Why this matters
-The NCRB recorded 13,892 student suicides in 2023—a 64.9% rise over the past decade—and one in five adolescents report rarely feeling calm, motivated, or excited. The crisis peaks around NEET/JEE milestones, producing predictable windows of heightened self-harm risk that current generic wellness apps fail to address.
+The NCRB recorded 13,892 student suicides in 2023, a 64.9% rise over the past decade, and one in five adolescents report rarely feeling calm, motivated, or excited. The crisis peaks around NEET/JEE milestones, producing predictable windows of heightened self-harm risk that current generic wellness apps fail to address.
 
 ### Solution blueprint
 * **Tiered care model.** Sahayata’s foundation is a three-tier experience: Tier 1 provides universally accessible CBT, mindfulness, and positive-psychology modules; Tier 2 offers moderated, anonymous peer forums; Tier 3 unlocks paid sessions with vetted adolescent specialists. This progression lowers stigma by letting users self-select the depth of engagement.
-* **Exam-cycle awareness.** Dedicated modules target the long preparation haul, the pre-exam sprint, and the post-result aftermath with tailored guidance on burnout prevention, performance anxiety, and coping with disappointment—mirroring the calendar-driven spikes in distress.
+* **Exam-cycle awareness.** Dedicated modules target the long preparation haul, the pre-exam sprint, and the post-result aftermath with tailored guidance on burnout prevention, performance anxiety, and coping with disappointment, mirroring the calendar-driven spikes in distress.
 * **Feature system.** Onboarding diagnostics feed a personalized dashboard (“The Daily Dose”), crisis handling lives under “The Pressure Valve” (with Tele-MANAS escalation), the “Study Zone” embeds Pomodoro timers and focus soundscapes, and “The Common Room” plus the parent portal keep communities and caregivers informed.
 * **Distribution strategy.** A B2B2C go-to-market plan aligns with coaching centers and schools so that support is embedded where aspirants spend most of their time, solving the reach problem while capturing outcome data for continuous improvement.
 
@@ -51,7 +51,7 @@ Investigations uncovered that Amazon, Google, and Apple routed both deliberate a
 
 ### Research contributions
 * **Ecosystem framing.** The report synthesizes market penetration data (>80% awareness), usability challenges unique to conversational interfaces, and user personification behaviors (“para-friends”) to explain why trust was high even as privacy literacy lagged.
-* **Technical anatomy.** Detailed coverage of the cloud workflow—wake-word filters, ASR, NLU, response generators, and QA dashboards—shows exactly where human reviewers entered the loop and why their access rights became the weakest link.
+* **Technical anatomy.** Detailed coverage of the cloud workflow, wake-word filters, ASR, NLU, response generators, and QA dashboards, shows exactly where human reviewers entered the loop and why their access rights became the weakest link.
 * **Policy & design levers.** Literature cited in the report calls for layered privacy filters (e.g., wake-word plus “sensitive word banks”), fine-grained data retention controls, and transparency resets so that consumers can calibrate consent to actual risk.
 
 ### Applying the lessons
@@ -63,5 +63,5 @@ Investigations uncovered that Amazon, Google, and Apple routed both deliberate a
 ## Cross-domain themes and next steps
 
 1. **Human-centered safeguards.** Whether you are reconstructing MRI volumes, triaging adolescent distress, or tuning wake words, the artifacts show that data fidelity and psychological safety are inseparable. Loss functions, care tiers, and consent flows should be audited just as rigorously as your models.
-2. **Explainability for trust.** All three studies document user trust gaps—patients need to know how physics priors constrain AI, students need culturally resonant guidance, and households need clarity about who hears their recordings. Align your documentation, product copy, and outreach with those expectations.
+2. **Explainability for trust.** All three studies document user trust gaps that patients need to know how physics priors constrain AI, students need culturally resonant guidance, and households need clarity about who hears their recordings. Align your documentation, product copy, and outreach with those expectations.
 3. **Operational analytics.** Capture per-module metrics (loss curves, mental-health outcomes, privacy incident reports) so that stakeholders can prove compliance and effectiveness over time.
